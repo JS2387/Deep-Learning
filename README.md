@@ -1,6 +1,6 @@
 # Deep Learning
 
-Solutions for the laborations as part of the Deep Learning course offered at LiU during the spring semester of 2021
+Solutions for the laborations as part of the Deep Learning course offered at LiU during the spring semester of 2022
 
 ## Lab1: Deep Neural Networks
 
